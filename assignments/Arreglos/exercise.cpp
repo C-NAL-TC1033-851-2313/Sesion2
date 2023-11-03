@@ -12,7 +12,6 @@ void llenaArreglo(int arreglo[], int tam){
 }
 
 
-
 void imprimeArreglo(int arreglo[], int tam){
     /*Recibe un arreglo y su tamaño
     la función imprime a pantalla los datos del arreglo*/
@@ -38,9 +37,9 @@ int main(){
     //Recibe el tamaño del arreglo
     cin >> size;
     //Crea el arreglo
-    int arr[size];
+    
     //Llama a la función que llena el arreglo
-    llenaArreglo(arr, size);
+
     //Llama a la función que imprime el arreglo
-    imprimeArreglo(arr,size);
+
 }
