@@ -1,18 +1,23 @@
 # Ejercicios - Básicos
 
-Ubíquese en la **carpeta fuente del proyecto** deseado, use:
+Ubíquese en la **carpeta del ejercicio** deseado, use:
 
 ```
-cd <assignments/Proyecto>
 
 Ej.- cd assignments/00-HelloWorld
 
 ```
-Regrese a la **carpeta fuente origen de todos los proyectos**, use:
+
+Regresar a una **carpeta anterior**, use:
+
+```
+Ej.- cd ../
+
+```
+
+Regrese a la **carpeta fuente inical, como está cuando cargas el codespace**, use:
 
 ```
 Ej.- cd ../../
 
 ```
-
-- 00-HelloWorld (```cd assignments/00-HelloWorld```)
